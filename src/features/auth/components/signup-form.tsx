@@ -78,14 +78,14 @@ export function SignupForm() {
             name="name"
             label="Your name"
             autoComplete="name"
-            placeholder="Alex Morgan"
+            placeholder="Saad Abdullah"
           />
           <TextField
             control={form.control}
             name="businessName"
             label="Business name"
             autoComplete="organization"
-            placeholder="Lumière Hair Studio"
+            placeholder="Torix Glow Studio"
           />
           <TextField
             control={form.control}

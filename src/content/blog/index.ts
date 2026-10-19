@@ -19,7 +19,7 @@ export const posts: BlogPost[] = [
     description:
       "No-shows quietly cost small businesses thousands each year. Here is the reminder cadence and policy that works for the studios on FlowDesk.",
     date: "2026-09-22",
-    author: "Ahmad Khajeh",
+    author: "Saad Abdullah",
     role: "Product",
     readingTime: "6 min read",
     category: "Playbooks",
@@ -31,7 +31,7 @@ export const posts: BlogPost[] = [
     description:
       "We analysed thousands of booking sessions. These seven details separate pages that fill calendars from pages that leak clients.",
     date: "2026-08-30",
-    author: "Ahmad Khajeh",
+    author: "Saad Abdullah",
     role: "Product",
     readingTime: "5 min read",
     category: "Growth",
@@ -43,7 +43,7 @@ export const posts: BlogPost[] = [
     description:
       "Revenue is only the start. Utilisation, rebooking rate and client lifetime value tell you where your next dollar is coming from.",
     date: "2026-08-04",
-    author: "Ahmad Khajeh",
+    author: "Saad Abdullah",
     role: "Product",
     readingTime: "7 min read",
     category: "Analytics",

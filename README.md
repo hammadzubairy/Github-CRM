@@ -2,9 +2,9 @@
 
 Appointment booking and client management for small businesses. Salons, clinics and consultants get a polished public booking page, a team calendar with drag-and-drop rescheduling, a client CRM and subscription billing in one calm workspace.
 
-**Live demo:** [saas.ahmadkhajeh.com](https://saas.ahmadkhajeh.com). Click "Try the live demo" to explore a fully loaded workspace, no sign-up needed.
+**Repo:** [github.com/saadxhammad/Github-CRM](https://github.com/saadxhammad/Github-CRM). Click "Try the live demo" after deploy to explore a fully loaded workspace, no sign-up needed.
 
-Demo project by Ahmad Khajeh — [ahmadkhajeh.com](https://ahmadkhajeh.com)
+Personalized demo by Saad Abdullah — [github.com/saadxhammad](https://github.com/saadxhammad)
 
 ![FlowDesk landing page](docs/screenshots/landing.png)
 

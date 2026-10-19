@@ -7,13 +7,13 @@ export const siteConfig = {
     "FlowDesk is the appointment booking and client management platform for salons, clinics and consultants. Online booking, calendar, clients, payments and reporting in one fast workspace.",
   url: getSiteUrl(),
   author: {
-    name: "Ahmad Khajeh",
-    url: "https://ahmadkhajeh.com",
+    name: "Saad Abdullah",
+    url: "https://github.com/saadxhammad",
   },
   links: {
-    github: "https://github.com/REALAVAT/flowdesk-saas",
+    github: "https://github.com/saadxhammad/Github-CRM",
   },
-  demoBookingSlug: "lumiere-studio",
+  demoBookingSlug: "torix-glow",
 } as const;
 
 export const marketingNav = [

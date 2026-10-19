@@ -18,9 +18,12 @@ export default function AuthLayout({ children }: { children: React.ReactNode }) 
           <div className="w-full max-w-sm">{children}</div>
         </main>
         <p className="text-center text-xs text-muted-foreground">
-          Demo project by Ahmad Khajeh —{" "}
-          <a href="https://ahmadkhajeh.com" className="underline-offset-4 hover:underline">
-            ahmadkhajeh.com
+          Built by Saad Abdullah —{" "}
+          <a
+            href="https://github.com/saadxhammad"
+            className="underline-offset-4 hover:underline"
+          >
+            github.com/saadxhammad
           </a>
         </p>
       </div>
@@ -30,9 +33,9 @@ export default function AuthLayout({ children }: { children: React.ReactNode }) 
         <div className="relative flex h-full flex-col justify-end p-12 text-white">
           <div className="mb-10 grid max-w-md gap-3">
             {[
-              ["Mia R.", "Balayage", "Fri · 10:30 AM", "bg-violet-400"],
-              ["Leo M.", "Men's Cut", "Fri · 12:00 PM", "bg-sky-400"],
-              ["Grace K.", "Root Color", "Fri · 2:15 PM", "bg-pink-400"],
+              ["Hira K.", "Balayage", "Fri · 10:30 AM", "bg-violet-400"],
+              ["Bilal A.", "Men's Cut", "Fri · 12:00 PM", "bg-sky-400"],
+              ["Ayesha M.", "Root Touch-up", "Fri · 2:15 PM", "bg-pink-400"],
             ].map(([name, service, time, color], i) => (
               <div
                 key={name}

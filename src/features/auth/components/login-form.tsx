@@ -27,7 +27,7 @@ export function LoginForm() {
     resolver: zodResolver(loginSchema),
     defaultValues: isSupabaseConfigured
       ? { email: "", password: "" }
-      : { email: "demo@flowdesk.app", password: "demo-password" },
+      : { email: "demo@torix.app", password: "demo-password" },
   });
 
   const onSubmit = form.handleSubmit((values) =>

@@ -63,7 +63,7 @@ export function RemindersIllustration() {
             <MessageSquareIcon className="size-3.5" />
           </span>
           <p className="text-[10px] leading-snug">
-            <span className="font-semibold">Reminder:</span> Your appointment at Lumière is tomorrow at 10:30.
+            <span className="font-semibold">Reminder:</span> Your appointment at Torix Glow is tomorrow at 10:30.
             Reply C to confirm.
           </p>
         </div>

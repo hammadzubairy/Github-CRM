@@ -11,5 +11,5 @@ export function getSiteUrl(): string {
   if (explicit) return explicit.replace(/\/$/, "");
   const vercel = process.env.VERCEL_PROJECT_PRODUCTION_URL;
   if (vercel) return `https://${vercel}`;
-  return "https://saas.ahmadkhajeh.com";
+  return "http://localhost:3000";
 }

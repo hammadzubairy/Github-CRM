@@ -72,7 +72,7 @@ export function ProductMockup({ className }: { className?: string }) {
         <div className="hidden w-44 shrink-0 flex-col gap-0.5 border-r bg-muted/30 p-2.5 md:flex">
           <div className="mb-3 flex items-center gap-2 px-1.5">
             <LogoMark className="size-5" />
-            <span className="text-xs font-semibold">Lumière Studio</span>
+            <span className="text-xs font-semibold">Torix Glow</span>
           </div>
           {nav.map((item) => (
             <div
